@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+smart+safari+systems!;Loves+React+%2B+Spring+Boot;Exploring+AI+%26+Cloud+Solutions;Always+learning+and+innovating!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+smart+safari+systems!;Loves+React+%2B+Spring+Boot;Exploring+AI+%26+Cloud+Solutions;Always+learning+and+innovating!" />
 </p>
 
 ---
@@ -66,6 +66,14 @@ A web-based safari booking & wildlife information platform featuring:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lahirulakshan&label=Profile+Views&color=blue&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/lahirulakshan?label=Followers&style=flat&color=blue" alt="followers" />
+</p>
+
+---
+
+### 🌊 Animated Contribution Graph (Snake)
+
+<p align="center">
+  <img src="https://github.com/lahirulakshan/lahirulakshan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
