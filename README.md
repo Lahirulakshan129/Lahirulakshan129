@@ -4,7 +4,7 @@
 
 <!-- Header -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/lahirulakshan" target="_blank">Lahiru 👋</a></h1>
-<h3 align="center">🚀 Full-Stack Developer | Wildlife Tech Enthusiast | Explorer 🌍</h3>
+
 
 <!-- Typing animation -->
 <p align="center">
