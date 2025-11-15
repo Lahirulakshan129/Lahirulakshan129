@@ -13,15 +13,6 @@
 
 ---
 
-### 🧠 About Me
-
-- 💡 Passionate about **building scalable web systems**  
-- 🌱 Currently working on **Kumana TrailMate: Safari Experience & Booking Platform**  
-- 💬 Ask me about **React, Vite, Spring Boot, PostgreSQL, Firebase, or Docker**  
-- ⚡ Fun fact: I mix **tech with wildlife innovation** 🦁  
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -33,12 +24,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahirulakshan&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lahirulakshan&theme=tokyonight&hide_border=false" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirulakshan&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lahirulakshan&show_icons=true&theme=tokyonight&hide_border=false" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lahirulakshan&theme=tokyonight&hide_border=false" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirulakshan&layout=compact&theme=tokyonight&hide_border=false" height="140" />
 </p>
 
 
