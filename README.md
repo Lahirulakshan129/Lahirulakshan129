@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="work.gif" alt="Banner GIF" style="max-width:100%; height:150px; object-fit:cover;">
+<p align="center" style="margin:0; padding:0;">
+  <img src="work.gif" alt="Banner GIF" style="display:block; width:100%; height:150px; object-fit:cover;">
 </p>
 
 <!-- Header -->
