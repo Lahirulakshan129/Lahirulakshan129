@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,java,spring,postgresql,firebase,docker,git,github,aws,python,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,java,spring,postgresql,firebase,docker,git,github,aws,python,linux&perline=20" />
 </p>
 
 ---
@@ -41,26 +41,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirulakshan&layout=compact&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
----
-
-### 🦁 Featured Project
-
-**[Kumana TrailMate](https://github.com/lahirulakshan/Kumana-TrailMate)**  
-A web-based safari booking & wildlife information platform featuring:
-- 🐾 Wildlife sightings & SOS alerts  
-- 📸 Memory album generation  
-- 💳 Booking management & payment gateway  
-- 🗺️ Admin map dashboard with live sightings  
-
----
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/lahiru-lakshan-b1b607201"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:lahirulakshan129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lahirulakshan-me.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
