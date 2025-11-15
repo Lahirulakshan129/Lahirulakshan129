@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Banner GIF" style="max-width:100%; height:auto;">
+  <img src="git.gif" alt="Banner GIF" style="max-width:100%; height:auto;">
 </p>
 <!-- Header -->
 <h1 align="center">Hey there, I'm <a href="https://github.com/lahirulakshan" target="_blank">Lahiru 👋</a></h1>
