@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,java,spring,postgresql,firebase,docker,git,github,aws,python,linux&perline=20&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,java,spring,postgresql,firebase,git,github,python&perline=20&theme=dark" />
 </p>
 
 ---
