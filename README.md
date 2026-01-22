@@ -9,7 +9,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+smart+safari+systems!;Loves+React+%2B+Spring+Boot;Exploring+AI+%26+Cloud+Solutions;Always+learning+and+innovating!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Exploring+AI+%26+Cloud+Solutions;Always+learning+and+innovating!;Driven+to+learn+and+grow+every+day;Ready+to+take+on+real-world+challenges;Committed+to+continuous+improvement" />
 </p>
 
 ---
